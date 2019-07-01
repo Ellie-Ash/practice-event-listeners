@@ -1,0 +1,12 @@
+article {
+    display: flex;
+    flex-direction: row 50%;
+}
+
+#one {
+    border: 1px red;
+}
+
+#two {
+    border: 1px blue;
+}
